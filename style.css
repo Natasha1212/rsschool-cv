@@ -1,6 +1,63 @@
-.conteiner {
-    height: 200%;
-    
+.container {
+    height: 100%;
+    margin-top: 60px;
+    max-width: 1000px;
+    margin: 60px auto;
 }
-#inet{
-    font-weight: bold;}
+img {
+    border-radius: 50%;
+    width: 25%;
+}
+.my-image{
+    width: 50%;
+    height: 100%;
+}
+.my-info {
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    text-transform: uppercase;
+}
+.container-row {
+    width: 100%;
+    display: flex;
+    height: 40%;
+}
+* {
+    box-sizing: border-box;
+}
+.header {
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 50px;
+    background-color: #0cd3cf;
+}
+
+body {
+    font-family:'Merriweather', serif;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: #0cd3cf;
+    position: absolute;
+    left: 0px;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+.box {
+    display: flex;
+    align-items: center;
+}
+.my-detail-info {
+    width: 50%;
+    height: 100%;
+}
+.my-name {
+    font-weight: bold;
+}
