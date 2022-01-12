@@ -6,7 +6,7 @@
 ****
  e-mail: tasha_next@rambler.ru
 
-![photo](images\129.JPG)
+![photo](images\129.jpg)
 ## Experience
 ***
 only started learning programming languages
